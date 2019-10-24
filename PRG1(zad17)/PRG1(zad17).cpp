@@ -25,5 +25,8 @@ int main()
 	wynik = nn / (kk * nk);
 	cout << wynik;
 
+
+	cout <<"Program działa poprawnie. Ale jest nic nie wart!"
+
 	
 }
