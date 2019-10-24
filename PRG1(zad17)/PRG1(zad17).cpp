@@ -14,6 +14,10 @@ int main()
 	{
 		xx *= i;
 	}
+	
+	
+	
+	//Druga silnia działa poprawnie
 	for(int i=1;i<=k;i++)
 	{
 		kk *= i;
@@ -25,5 +29,16 @@ int main()
 	wynik = xx / (kk * nk);
 	cout << wynik;
 
+
 	
 }
+
+
+
+	cout <<"Program działa poprawnie. Ale jest nic nie wart!"
+
+
+	//Wywołanie gotowe
+
+}
+
