@@ -25,5 +25,6 @@ int main()
 	wynik = nn / (kk * nk);
 	cout << wynik;
 
+	//Wywołanie gotowe
 	
 }
