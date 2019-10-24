@@ -4,15 +4,15 @@ using namespace std;
 
 int main()
 {
-	int n, k;
-	int nn=1, kk=1, nk=1, wynik;
+	int x, k;
+	int xx=1, kk=1, nk=1, wynik;
 	cout << "Ilu elementowy jest zbior? " << endl;
-	cin >> n;
+	cin >> x;
 	cout << "Ile elementow ma byc w podzbiorach? " << endl;
 	cin >> k;
 	for(int i =1;i<=n;i++)
 	{
-		nn *= i;
+		xx *= i;
 	}
 	for(int i=1;i<=k;i++)
 	{
@@ -22,7 +22,7 @@ int main()
 	{
 		nk *= i;
 	}
-	wynik = nn / (kk * nk);
+	wynik = xx / (kk * nk);
 	cout << wynik;
 
 	
