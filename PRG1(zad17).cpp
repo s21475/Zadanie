@@ -16,6 +16,6 @@ int main()
 		nn *= i;
 	}
 	// Zadanie wykonane
-
+	//   ;)
 	
 }
