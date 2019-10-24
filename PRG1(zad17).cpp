@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-	int a;
+	int a,b;
 	int n, k;
 	int nn=1, kk=1, nk=1, wynik;
 	cout << "Ilu elementowy jest zbior? " << endl;
